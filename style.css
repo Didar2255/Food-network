@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+.Top-side{
+    display: flex;
+}
+.Flaxible{
+    width: 70%;
+    margin-left: 10px;
+    padding: 5px;
+    text-align: justify;
+}
+.Flaxible img{
+    width:80%;
+}
+h1{
+    font-family: 'Lora', serif;
+    font-family: 'Noto Serif', serif;
+    font-size: 80px;
+}
+.Button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(250, 88, 39),tomato);
+    padding: 5px;
+    border-radius: 30px;
+    font-weight: 700;
+    margin: 5px;
+}
+.color{
+    color: #e67913;
+}
+.Mid-section{
+    display:flex;
+    background-image: url(images/Frame\ 58.jpg);
+}
+.Mid-section p{
+    margin-right: 15px;
+    padding: 5px;
+}

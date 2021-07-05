@@ -37,3 +37,26 @@ h1{
     margin-right: 15px;
     padding: 5px;
 }
+.middel-section{
+   display:flex;
+   margin-bottom: 100px;
+}
+.width-shadow{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 20px #272727;
+    padding-left: 10px;
+    border-radius: 20px;
+   
+}
+.Recipes-section{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.image-1{
+ height: 200px;
+ width: 295px;
+ margin-top: 10px;
+ border-radius: 20px;   
+}

@@ -37,6 +37,10 @@ h1{
     margin-right: 15px;
     padding: 5px;
 }
+.Mid-section img {
+    border-radius: 80px;
+    
+}
 .middel-section{
    display:flex;
    margin-bottom: 100px;
@@ -75,7 +79,7 @@ footer {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
 }
 h2{
-    color:#0c1111;
+    color:#1b4343;
     padding: 5px;
 }
 .bacground{

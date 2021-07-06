@@ -74,7 +74,7 @@ h1{
 footer {
     text-align: center;
     background-color: rgb(40, 30, 51);
-    height: 100px;
+    height: 80px;
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
 }
@@ -84,10 +84,10 @@ h2{
 }
 .bacground{
     background-image: url(images/flat.jpg);
-   
 }
 .contact-area{
     display: flex;
+
 }
 .contct-section{
     width: 45%;
